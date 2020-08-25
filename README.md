@@ -110,4 +110,3 @@ Total runtime: 30.864023
 
 * alexcornejo@inaoep.mx
 * jesgadiaz@inaoep.mx
-* https://ccc.inaoep.mx/~jesgadiaz/
