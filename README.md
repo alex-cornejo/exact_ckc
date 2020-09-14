@@ -106,6 +106,34 @@ Solution size: 895.6439024523083
 Total runtime: 30.864023
 ```
 
+## Citing
+### MDPI and ACS Style
+Cornejo Acosta, J.A.; García Díaz, J.; Menchaca-Méndez, R.; Menchaca-Méndez, R. Solving the Capacitated Vertex K-Center Problem through the Minimum Capacitated Dominating Set Problem. *Mathematics* **2020**, *8*, 1551.
+
+### AMA Style
+Cornejo Acosta JA, García Díaz J, Menchaca-Méndez R, Menchaca-Méndez R. Solving the Capacitated Vertex K-Center Problem through the Minimum Capacitated Dominating Set Problem. *Mathematics*. 2020; 8(9):1551.
+
+### Chicago/Turabian Style
+Cornejo Acosta, José A.; García Díaz, Jesús; Menchaca-Méndez, Ricardo; Menchaca-Méndez, Rolando. 2020. "Solving the Capacitated Vertex K-Center Problem through the Minimum Capacitated Dominating Set Problem." *Mathematics* 8, no. 9: 1551.
+### BibTex
+```
+@article{ckc2020,
+author = {{Cornejo Acosta}, Jos{\'{e}} Alejandro and {Garc{\'{i}}a D{\'{i}}az}, Jes{\'{u}}s and Menchaca-M{\'{e}}ndez, Ricardo and Menchaca-M{\'{e}}ndez, Rolando},
+doi = {10.3390/math8091551},
+issn = {2227-7390},
+journal = {Mathematics},
+keywords = {facility location,graph theory,integer programming,optimization},
+month = {sep},
+number = {9},
+pages = {1551},
+publisher = {MDPI},
+title = {{Solving the Capacitated Vertex K-Center Problem through the Minimum Capacitated Dominating Set Problem}},
+url = {https://www.mdpi.com/2227-7390/8/9/1551},
+volume = {8},
+year = {2020}
+}
+```
+
 # Contact
 
 * alexcornejo@inaoep.mx
