@@ -1,5 +1,6 @@
 # Capacitated vertex k-center problem
-Exact algorithm implementation for the capacitated vertex k-center problem
+Exact algorithm implementation for the capacitated vertex k-center problem. The virtual poster of this work can be checked in https://www.youtube.com/watch?v=qPmeCb4HTAE&ab_channel=smm_oficial (spanish).
+
 
 ## Setup
 ### Install gurobipy:
